@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/user-bundle",
+    "name": "hevea/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": ["User management"],
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^5.5.9 || ^7.0",
+        "php": "^5.5.9 || ^7.0 || ^8.0",
         "symfony/form": "^2.7 || ^3.0",
         "symfony/framework-bundle": "^2.7 || ^3.0",
         "symfony/security-bundle": "^2.7 || ^3.0",
